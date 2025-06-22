@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey there! I'm Akeem Mudashiru
 
-<!--
-**Akeemmudash/akeemmudash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Backend Developer**
 
-Here are some ideas to get you started:
+🚀 Passionate about building elegant user interfaces and scalable backend systems that power smooth, delightful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+- **React.js**, **Next.js**, **Tailwind CSS**, **Vite**, **Bootstrap**, **Material UI**
+- **Framer Motion**, **React Router**, **Zustand**
+- **JavaScript**,  **TypeScript**
+- Precision-based **Figma to Code** implementation
+
+### ⚙️ Backend*, **Django REST Framework**, **Node.js**, **Expressjs**
+- **PostgreSQL**, **MongoDB**
+- **REST API** design & development
+
+### 🧰 Tools & Platforms
+- **Git & GitHub**
+- **Render**, **Netlify**, **Vercel**
+---
+
+## 🌱 Currently Learning
+- Redux 
+- TypeScript (Taking it to the next level)
+- Django (without signals for now 😉)
+- Advanced API testing & performance optimization
+- System design & architecture for fullstack apps
+
+---
+
+## 🧠 Notable Projects
+[**Outbound AI**](https://www.Outbound.im)
+
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/akeem-mudashiru](https://www.linkedin.com/in/akeem-mudashiru)
+- **Twitter**: [@akeemmudash](https://twitter.com/akeemmudash)
+- **Email**: akeemmudash@gmail.com
+
+---
+
+> ⚡ “I code to solve problems, design for people, and learn every day.”
